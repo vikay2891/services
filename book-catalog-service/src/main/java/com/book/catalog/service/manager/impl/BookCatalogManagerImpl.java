@@ -77,9 +77,9 @@ public class BookCatalogManagerImpl implements BookCatalogManager {
 
     }
 
-   public  List<BookCatalogItem>getCatalog(String userId){
+/*   public  List<BookCatalogItem>getCatalog(String userId){
        UserRating userRating = restTemplate.getForObject("http://book-rating-service/")
 
 
-    }
+    }*/
 }

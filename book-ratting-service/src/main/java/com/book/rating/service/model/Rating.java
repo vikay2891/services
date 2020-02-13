@@ -8,22 +8,28 @@ import javax.persistence.*;
 
 /**
  * @author vikas.bhardwaj3
+ * This entity hold the details of user rating
  * 2/3/202010:08 AM2020
  */
 @Entity
 @Getter
 @Setter
 @NoArgsConstructor
+@Table(name = "RATING")
 public class Rating {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
+    @Column(name = "RATING_ID")
     private int ratingId;
 
+    @Column(name = "BOOK_NAME")
     private String bookName;
 
-    private int rating;
-
+    @Column(name = "RATINGS")
+    private float ratings;
+/*    @Column(name = "USER_RATING_ID")
+    private int userRatingId;*/
 
 
 }
