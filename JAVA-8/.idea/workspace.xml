@@ -13,22 +13,67 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1X7NV3kdrDDNAeAbLhrKzvz2JkV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../book-catalog-service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.EmployeeComparable">
-    <configuration name="CountDuplicateElementJava8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.CountDuplicateElementJava8" />
+  <component name="RunManager" selected="Application.ClientCode">
+    <configuration name="AssignTaskManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.infotech.tasks.AssignTaskManagerTest" />
+      <module name="JAVA-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.infotech.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DesignPattern.strategyDesignPattern.ClientCode" />
+      <module name="JAVA-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.DesignPattern.strategyDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.infotech.tasks.ConditionTest" />
+      <module name="JAVA-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.infotech.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountDownLatchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.CountDownLatchExample" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
@@ -40,47 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.EmployeeComparable" />
-      <module name="JAVA-8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NonAbstractMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.NonAbstractMethod" />
-      <module name="JAVA-8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OverridinfExceptionCase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.OverridinfExceptionCase2" />
-      <module name="JAVA-8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OverridingExceptionCase1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.OverridingExceptionCase1" />
+    <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.CyclicBarrierDemo" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
@@ -93,19 +99,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountDuplicateElementJava8" />
-      <item itemvalue="Application.EmployeeComparable" />
-      <item itemvalue="Application.NonAbstractMethod" />
-      <item itemvalue="Application.OverridinfExceptionCase2" />
-      <item itemvalue="Application.OverridingExceptionCase1" />
+      <item itemvalue="Application.CyclicBarrierDemo" />
+      <item itemvalue="Application.CountDownLatchExample" />
+      <item itemvalue="Application.AssignTaskManagerTest" />
+      <item itemvalue="Application.ConditionTest" />
+      <item itemvalue="Application.ClientCode" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeeComparable" />
-        <item itemvalue="Application.NonAbstractMethod" />
-        <item itemvalue="Application.OverridinfExceptionCase2" />
-        <item itemvalue="Application.OverridingExceptionCase1" />
-        <item itemvalue="Application.CountDuplicateElementJava8" />
+        <item itemvalue="Application.ClientCode" />
+        <item itemvalue="Application.ConditionTest" />
+        <item itemvalue="Application.CountDownLatchExample" />
+        <item itemvalue="Application.AssignTaskManagerTest" />
+        <item itemvalue="Application.CyclicBarrierDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -123,14 +129,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1580396673382">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1581961034508">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580396673382" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581961034508" />
     <state x="449" y="144" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580395216691">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="144" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1580395216691" />
+    <state x="329" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581960475300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="329" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1581960475300" />
     <state x="524" y="122" key="#xdebugger.evaluate" timestamp="1580407942471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -143,42 +153,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580550645918" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1580406797737">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1581962172989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580406797737" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1580406797736">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581962172989" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1581962172989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580406797736" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1580406797736">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581962172989" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1581962172989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580406797736" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1580406797737">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581962172989" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1581962172989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580406797737" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1580406798672">
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581962172989" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1581870274922">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580406798672" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1580406798672">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581870274922" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1581870274921">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580406798672" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1580406798672">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581870274921" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1581870274921">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580406798672" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1580406798672">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581870274921" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1581870274922">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580406798672" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581870274922" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1581785573768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581785573768" />
     <state x="209" y="39" key="new project wizard" timestamp="1580544956517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="39" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580544956517" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581854148794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581854148794" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -209,9 +227,14 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Math.java</url>
-          <line>1335</line>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/src/com/infotech/tasks/ConditionTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/infotech/tasks/ConditionTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
