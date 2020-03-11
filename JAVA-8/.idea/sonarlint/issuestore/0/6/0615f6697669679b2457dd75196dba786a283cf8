@@ -1,0 +1,8 @@
+
+Tsquid:S1197"8Move the array designator from the variable to the type.(è‹’©ýÿÿÿÿ
+isquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(×ìé‰8ÝŸãÝŠ.
+¤%squid:RedundantThrowsDeclarationCheck0"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ÝŸãÝŠ.
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ
+Nsquid:S1481:"+Remove this unused "result" local variable.(äÿñ·øÿÿÿÿ8ÝŸãÝŠ.
+nsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(µÃÝøÿÿÿÿ8ÝŸãÝŠ.
+Jsquid:S14811"'Remove this unused "sc" local variable.(ðÛ²¸øÿÿÿÿ8•¹éÝŠ.

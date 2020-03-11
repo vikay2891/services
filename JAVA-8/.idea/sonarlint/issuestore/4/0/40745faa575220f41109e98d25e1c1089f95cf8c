@@ -1,0 +1,5 @@
+
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8¿Ç®š‹.
+isquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(ÞÇçæ8‡žÃßŠ.
+nsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ÖË™Ãÿÿÿÿÿ8ÿ”ÂßŠ.
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ÝÄßŠ.

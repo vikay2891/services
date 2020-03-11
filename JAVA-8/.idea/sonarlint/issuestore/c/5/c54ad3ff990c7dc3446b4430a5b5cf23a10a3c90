@@ -1,10 +1,0 @@
-
-nsquid:S2177"WRename this method; there is a "private" method in the parent class with the same name.(«°Â‡
-Psquid:UnusedPrivateMethod"+Remove this unused private "method" method.(«°Â‡
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(˜®Ó
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(¶È¡³
-Psquid:UnusedPrivateMethod"+Remove this unused private "method" method.(«°Â‡
-=squid:S1481"&Remove this unused "a" local variable.(ÚÎ°Ä
-Lsquid:S1854"5Remove this useless assignment to local variable "a".(ÚÎ°Ä

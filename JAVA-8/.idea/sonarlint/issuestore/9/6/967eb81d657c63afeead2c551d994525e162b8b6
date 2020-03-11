@@ -1,0 +1,5 @@
+
+‚squid:S4165"dRemove this useless assignment; "result" already holds the assigned value along all execution paths.(ˆáŒƒ8ÊƒŸ›Œ.
+Ksquid:S1172"(Remove this unused method parameter "k".(ÂÄğÓùÿÿÿÿ8ÑÆ•›Œ.
+Ksquid:S1481"(Remove this unused "arr" local variable.(«ùÅâúÿÿÿÿ8ÿÎŸ›Œ.
+Jsquid:S1481"'Remove this unused "hm" local variable.(‡êùıÿÿÿÿ8úû¢›Œ.

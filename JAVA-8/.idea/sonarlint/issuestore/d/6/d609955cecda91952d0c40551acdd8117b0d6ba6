@@ -1,0 +1,6 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(’ï÷¼ýÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Üýþ¦
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶‘ÕÁÿÿÿÿÿ
+Xsquid:UselessImportCheck"/Remove this unused import 'sun.misc.Contended'.(’ï÷¼ýÿÿÿÿ

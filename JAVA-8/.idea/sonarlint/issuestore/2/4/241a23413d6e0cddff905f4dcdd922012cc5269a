@@ -1,0 +1,24 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(§Òôäúÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä£Œƒ
+Psquid:UnusedPrivateMethod"(Remove this unused private "met" method.(í˜ÆÈşÿÿÿÿ
+lsquid:S2177"WRename this method; there is a "private" method in the parent class with the same name.(«°Â‡
+Nsquid:UnusedPrivateMethod"+Remove this unused private "method" method.(«°Â‡
+Tsquid:S1161":Add the "@Override" annotation above this method signature(Âùú¸øÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ãùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(â¾±úÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖãÒŸÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ş¤àíøÿÿÿÿ
+Nsquid:UnusedPrivateMethod"+Remove this unused private "method" method.(«°Â‡
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕÚÕ´üÿÿÿÿ
+<squid:S1481"'Remove this unused "b1" local variable.(„óéÄ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆĞí†
+Rsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ

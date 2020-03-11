@@ -1,6 +1,0 @@
-
->squid:S1481"'Remove this unused "a3" local variable.(ÄáéŞ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½¯Æš
-Msquid:S1854"6Remove this useless assignment to local variable "a3".(ÄáéŞ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(öÁåÁşÿÿÿÿ

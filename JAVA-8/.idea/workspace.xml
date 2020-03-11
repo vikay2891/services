@@ -1,7 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="422e65bd-24f0-4c32-b0e4-1da086cdff7c" name="Default Changelist" comment="" />
+    <list default="true" id="422e65bd-24f0-4c32-b0e4-1da086cdff7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/DI/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/DI/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/DI/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/DI/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/comparable/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/393e12f0d5b7b4cdf050e8fa0e3c14c505e5033d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f788cbb45490b8fd5e1785ee5a10b9574e0c6ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b7018ea2fd24efebe73a65640adc647246b0e3c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76da0bf24532c23e42da81d09b022932176eb3c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/7982c5e38c79eb3f1cace35722b39fdae7c231c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/8252b956ef0229f2ea1729b8a00016fbf7091602" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ea6497e471ffa7c20b8c863c60bf0ff4cc21db7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c54ad3ff990c7dc3446b4430a5b5cf23a10a3c90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9e6e1cedf6965ae92abcade1e766c9e1a56cee4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea922ffbf86cb287316b0a2eb48d06c09b441ff7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/edbe7a2d08256f4fd31628af1a964a4078fc06d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA-8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/DesignPattern/strategyDesignPattern/ClientCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/DesignPattern/strategyDesignPattern/DebitCradStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/DesignPattern/strategyDesignPattern/PayPalStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/DesignPattern/strategyDesignPattern/PaymentStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/DesignPattern/strategyDesignPattern/model/DebitCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/DesignPattern/strategyDesignPattern/model/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/infotech/tasks/AssignTaskManagerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/infotech/tasks/ConditionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/infotech/tasks/DevTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/infotech/tasks/ProducerConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/infotech/tasks/QATeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/A3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/A5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/A6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/A7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/A8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CountDownLatchExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CountDuplicaeWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CountDuplicateElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CountDuplicateElementJava8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CountDuplicateInjava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CountDuplicateWordJava8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CyclicBarrierDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/DevTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/EmployeeComparable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/FinalMethodOverride.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/NonAbstractMethod$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/NonAbstractMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/OverridinfExceptionCase2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/OverridingAbstractMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/OverridingExceptionCase1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/Passanger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/Predicate1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/QaTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/RemoveWhiteSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/StarvationDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/Subclass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/UiTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/DesignPattern/strategyDesignPattern/ClientCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DesignPattern/strategyDesignPattern/ClientCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/DesignPattern/strategyDesignPattern/DebitCradStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DesignPattern/strategyDesignPattern/DebitCradStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/DesignPattern/strategyDesignPattern/PayPalStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DesignPattern/strategyDesignPattern/PayPalStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/DesignPattern/strategyDesignPattern/PaymentStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DesignPattern/strategyDesignPattern/PaymentStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/DesignPattern/strategyDesignPattern/model/DebitCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DesignPattern/strategyDesignPattern/model/DebitCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/DesignPattern/strategyDesignPattern/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DesignPattern/strategyDesignPattern/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/infotech/tasks/AssignTaskManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infotech/tasks/AssignTaskManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/infotech/tasks/ConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infotech/tasks/ConditionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/infotech/tasks/DevTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infotech/tasks/DevTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/infotech/tasks/QATeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infotech/tasks/QATeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/CountDownLatchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CountDownLatchExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/CountDuplicaeWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CountDuplicaeWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/CountDuplicateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CountDuplicateElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/CountDuplicateElementJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CountDuplicateElementJava8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/CountDuplicateInjava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CountDuplicateInjava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/CountDuplicateWordJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CountDuplicateWordJava8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/CyclicBarrierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CyclicBarrierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/DevTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/DevTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/EmployeeComparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/EmployeeComparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/FinalMethodOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/FinalMethodOverride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/NonAbstractMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/NonAbstractMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/OverridinfExceptionCase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/OverridinfExceptionCase2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/OverridingAbstractMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/OverridingAbstractMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/OverridingExceptionCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/OverridingExceptionCase1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/Predicate1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/Predicate1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/QaTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/QaTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/RemoveWhiteSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/RemoveWhiteSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/StarvationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/StarvationDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/UiTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/UiTeam.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +168,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -20,6 +176,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1X7NV3kdrDDNAeAbLhrKzvz2JkV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,16 +192,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/demo (6)/demo" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Desktop/new 7" />
   </component>
-  <component name="RunManager" selected="Application.ClientCode">
-    <configuration name="AssignTaskManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.infotech.tasks.AssignTaskManagerTest" />
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.DI" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LRUCache">
+    <configuration name="DeleteElementFromLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linkedlist.DeleteElementFromLast" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.infotech.tasks.*" />
+          <option name="PATTERN" value="com.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.DesignPattern.strategyDesignPattern.ClientCode" />
+    <configuration name="FindDuplicatePositionKth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Hashtable.FindDuplicatePositionKth" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.DesignPattern.strategyDesignPattern.*" />
+          <option name="PATTERN" value="com.Hashtable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.infotech.tasks.ConditionTest" />
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LRUCache" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.infotech.tasks.*" />
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDownLatchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.CountDownLatchExample" />
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekforgeek.LinkedList" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.*" />
+          <option name="PATTERN" value="com.geekforgeek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.CyclicBarrierDemo" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekforgeek.Main" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.*" />
+          <option name="PATTERN" value="com.geekforgeek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,19 +273,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CyclicBarrierDemo" />
-      <item itemvalue="Application.CountDownLatchExample" />
-      <item itemvalue="Application.AssignTaskManagerTest" />
-      <item itemvalue="Application.ConditionTest" />
-      <item itemvalue="Application.ClientCode" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DeleteElementFromLast" />
+      <item itemvalue="Application.LinkedList" />
+      <item itemvalue="Application.FindDuplicatePositionKth" />
+      <item itemvalue="Application.LRUCache" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClientCode" />
-        <item itemvalue="Application.ConditionTest" />
-        <item itemvalue="Application.CountDownLatchExample" />
-        <item itemvalue="Application.AssignTaskManagerTest" />
-        <item itemvalue="Application.CyclicBarrierDemo" />
+        <item itemvalue="Application.LRUCache" />
+        <item itemvalue="Application.DeleteElementFromLast" />
+        <item itemvalue="Application.FindDuplicatePositionKth" />
+        <item itemvalue="Application.LinkedList" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -129,114 +303,523 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1581961034508">
+    <state x="361" y="73" key="#Project_Structure" timestamp="1583408876904">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581961034508" />
-    <state x="449" y="144" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580395216691">
+    <state x="361" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583408876904" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1583413753290">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="144" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1580395216691" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583413753290" />
+    <state x="447" y="104" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583408826401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="104" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1583408826401" />
+    <state x="449" y="144" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582382020761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="144" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1582382020761" />
+    <state x="571" y="303" width="393" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582630482873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="571" y="303" width="393" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1582630482873" />
     <state x="329" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581960475300">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="329" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1581960475300" />
-    <state x="524" y="122" key="#xdebugger.evaluate" timestamp="1580407942471">
+    <state x="524" y="122" key="#xdebugger.evaluate" timestamp="1583689926341">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="524" y="122" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1580407942471" />
-    <state width="402" height="466" key="DebuggerActiveHint" timestamp="1580402953661">
+    <state x="524" y="122" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1583689926341" />
+    <state x="306" y="9" key="CommitChangelistDialog2" timestamp="1583940982853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="402" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1580402953661" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1580550645919">
+    <state x="306" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583940982853" />
+    <state width="510" height="466" key="DebuggerActiveHint" timestamp="1583831479730">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580550645918" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1581962172989">
+    <state width="510" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1583831479730" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1582886140314">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581962172989" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1581962172989">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1582886140314" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1583409839050">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581962172989" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1581962172989">
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583409839050" />
+    <state width="1493" height="285" key="GridCell.Tab.0.bottom" timestamp="1583940821197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581962172989" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1581962172989">
+    <state width="1493" height="285" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583940821197" />
+    <state width="1493" height="285" key="GridCell.Tab.0.center" timestamp="1583940821197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581962172989" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1581870274922">
+    <state width="1493" height="285" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583940821197" />
+    <state width="1493" height="285" key="GridCell.Tab.0.left" timestamp="1583940821197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581870274922" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1581870274921">
+    <state width="1493" height="285" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583940821197" />
+    <state width="1493" height="285" key="GridCell.Tab.0.right" timestamp="1583940821197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581870274921" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1581870274921">
+    <state width="1493" height="285" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583940821197" />
+    <state width="1493" height="285" key="GridCell.Tab.1.bottom" timestamp="1583940822486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581870274921" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1581870274922">
+    <state width="1493" height="285" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583940822486" />
+    <state width="1493" height="285" key="GridCell.Tab.1.center" timestamp="1583940822485">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581870274922" />
+    <state width="1493" height="285" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583940822485" />
+    <state width="1493" height="285" key="GridCell.Tab.1.left" timestamp="1583940822485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="285" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583940822485" />
+    <state width="1493" height="285" key="GridCell.Tab.1.right" timestamp="1583940822485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="285" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583940822485" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1583409730115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1583409730115" />
+    <state x="409" y="137" key="RollbackChangesDialog" timestamp="1583598466968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="137" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583598466968" />
     <state x="279" y="58" key="SettingsEditor" timestamp="1581785573768">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581785573768" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1582368394905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1582368394905" />
+    <state x="499" y="174" key="extract.method.dialog" timestamp="1583852732135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="174" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1583852732135" />
     <state x="209" y="39" key="new project wizard" timestamp="1580544956517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="39" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580544956517" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581854148794">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1583417212602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581854148794" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583417212602" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582445104258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582445104258" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/java8/NonAbstractMethod.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/java8/NonAbstractMethod.java</url>
           <line>12</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/java8/Employee.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/java8/Employee.java</url>
           <line>44</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/java8/EmployeeComparable.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/java8/EmployeeComparable.java</url>
           <line>16</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/java8/Employee.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/java8/Employee.java</url>
           <line>43</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/String.java</url>
-          <line>1153</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/infotech/tasks/ConditionTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/infotech/tasks/ConditionTest.java</url>
           <line>23</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/infotech/tasks/ConditionTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/infotech/tasks/ConditionTest.java</url>
           <line>21</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/comparable/EmployeeTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/comparable/EmployeeTest.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/ReverseLinkedList.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/stack/CompressString.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/stack/CompressString.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/CountPair.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/CountPair.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/CountPair.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/AnaGramSolution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/AnaGramSolution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/infotech/tasks/AnagramProgram.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/infotech/tasks/AnagramProgram.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/infotech/tasks/AnagramProgram.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/AnaGramSolution.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/AnaGramSolution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/AnaGramSolution.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/DI/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/comparable/Employee.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/comparable/EmployeeTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/comparable/EmployeeTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/comparable/EmployeeTest.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/comparable/EmployeeTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/BalanceSolution.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/BalanceSolution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/BalanceSolution.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/Solution.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/AnaGramSolution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/ReverseHashmap.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/ReverseHashmap.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/ReverseHashmap.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/NumberEmployeeUnderManager.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/NumberEmployeeUnderManager.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/NumberEmployeeUnderManager.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/NumberEmployeeUnderManager.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/NumberEmployeeUnderManager.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/NumberEmployeeUnderManager.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/NumberEmployeeUnderManager.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/NumberEmployeeUnderManager.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/ReverseHashmap.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/FindItinerary.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/FindItinerary.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/FindItinerary.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/FindItinerary.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/LongestCommonString.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/LongestCommonString.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/LongestCommonString.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/CompressString.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/CompressString.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/CompressString.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/CompressString.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/Main.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/Main.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/Main.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/Main.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/Main.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/Main.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/Main.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/Main.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/Main.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/LinkedList.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/LinkedList.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/DeleteElementFromLast.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/DeleteElementFromLast.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/DeleteElementFromLast.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/DeleteElementFromLast.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/LRUCache.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/LRUCache.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/comparable/Employee.java</url>
+          <line>35</line>
+          <properties class="com.comparable.Employee" method="equals">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hackerrank/BalanceSolution.java</url>
+          <line>36</line>
+          <properties class="com.hackerrank.BalanceSolution" method="checkBracket">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geekforgeek/Main.java</url>
+          <line>31</line>
+          <properties class="com.geekforgeek.MyDataStructure" method="remove">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JAVA_8$EmployeeTest.ic" NAME="EmployeeTest Coverage Results" MODIFIED="1583417083956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.comparable.*</FILTER>
+    </SUITE>
   </component>
 </project>

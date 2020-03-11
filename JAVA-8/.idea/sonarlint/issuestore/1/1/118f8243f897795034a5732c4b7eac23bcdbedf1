@@ -1,0 +1,11 @@
+
+lsquid:S3824!"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(¾ğ‚ö8×ù£‹.
+dsquid:S1192"FDefine a constant instead of duplicating this literal "tarun" 4 times.(µŠŒÃ8ÆäÚŸ‹.
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(­²®ÿúÿÿÿÿ8óµ‹.
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(Õ€ğÏıÿÿÿÿ8Û½Û£‹.
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(º²£­ùÿÿÿÿ8àÈÔª‹.
+esquid:S1192"GDefine a constant instead of duplicating this literal "aditya" 3 times.(ï˜¢­8å‰¨©‹.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛÀÄû8áì°‹.
