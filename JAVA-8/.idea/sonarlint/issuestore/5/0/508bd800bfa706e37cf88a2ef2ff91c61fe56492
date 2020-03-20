@@ -1,0 +1,4 @@
+
+asquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ü©«Z
+§%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹´èÔþÿÿÿÿ

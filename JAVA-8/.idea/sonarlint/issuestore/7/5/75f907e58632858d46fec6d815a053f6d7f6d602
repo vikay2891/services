@@ -1,9 +1,9 @@
 
-[squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ÿ›¬ÔŠ.
-Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ËÁü8Ÿ›¬ÔŠ.
-_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(©ñ‚úıÿÿÿÿ8Ÿ›¬ÔŠ.
-qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8Ÿ›¬ÔŠ.
-S
-squid:S106"9Replace this use of System.out or System.err by a logger.(É¨¨h8Ÿ›¬ÔŠ.
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§ş®§8Ÿ›¬ÔŠ.
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(şÒÉÜûÿÿÿÿ8Ÿ›¬ÔŠ.
+asquid:S1155S">Use isEmpty() to check whether the collection is empty or not.(©ñ‚úıÿÿÿÿ8Ÿ›¬ÔŠ.
+U
+squid:S1062"9Replace this use of System.out or System.err by a logger.(É¨¨h8Ÿ›¬ÔŠ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(şÒÉÜûÿÿÿÿ8Ÿ›¬ÔŠ.
+\squid:S1155>">Use isEmpty() to check whether the collection is empty or not.(ËÁü8Ÿ›¬ÔŠ.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§ş®§8Ÿ›¬ÔŠ.
+ssquid:S11498"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8Ÿ›¬ÔŠ.
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ÿ›¬ÔŠ.

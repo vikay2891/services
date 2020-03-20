@@ -9,7 +9,7 @@ import java.util.concurrent.CountDownLatch;
 public class QaTeam extends Thread {
 
     private int duration;
-
+ String s ;
     public QaTeam(int duration, String name) {
         super(name);
         this.duration = duration;

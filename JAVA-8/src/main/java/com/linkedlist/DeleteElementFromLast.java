@@ -18,14 +18,16 @@ public class DeleteElementFromLast {
         linkedList.push(16);
         System.out.println("\nCreated Linked list is:");
         linkedList.printList();
-        // linkedList.delete(1);
+        linkedList.delete(1);
+        System.out.println("\nafter deleted Linked list is:");
+        linkedList.printList();
 
     }
 
     public void push(int new_data) {
         Node new_node = new Node(new_data);
-        new_node.next =head;
-        head =new_node;
+        new_node.next = head;
+        head = new_node;
     }
 
     public void printList() {
@@ -37,10 +39,27 @@ public class DeleteElementFromLast {
         }
     }
 
-   /* public void delete(int k) {
+    public Node delete(int k) {
         Node first = head;
-        Node secondPointer = head.next;
-    }*/
+        Node secondPointer = head;
+        for (int i = 0; i < k; i++) {
+            if (secondPointer == null) {
+                if (i == k - 1) {
+                    return head.next;
+                }
+                return head;
+            }
+            secondPointer = secondPointer.next;
+        }
+        while (secondPointer.next != null) {
+            first = first.next;
+            secondPointer = secondPointer.next;
+        }
+
+        first.next = first.next.next;
+        return head;
+    }
+
 
     class Node {
         Node next;

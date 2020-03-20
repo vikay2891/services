@@ -1,161 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="422e65bd-24f0-4c32-b0e4-1da086cdff7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DI/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DI/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DI/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/DI/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/comparable/Employee.java" afterDir="false" />
+    <list default="true" id="422e65bd-24f0-4c32-b0e4-1da086cdff7c" name="Default Changelist" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/BinarySearchTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/Interview/FindTheTxn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8/RightShift.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/393e12f0d5b7b4cdf050e8fa0e3c14c505e5033d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f788cbb45490b8fd5e1785ee5a10b9574e0c6ed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4b7018ea2fd24efebe73a65640adc647246b0e3c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76da0bf24532c23e42da81d09b022932176eb3c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/7982c5e38c79eb3f1cace35722b39fdae7c231c6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/8252b956ef0229f2ea1729b8a00016fbf7091602" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ea6497e471ffa7c20b8c863c60bf0ff4cc21db7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c54ad3ff990c7dc3446b4430a5b5cf23a10a3c90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d9e6e1cedf6965ae92abcade1e766c9e1a56cee4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea922ffbf86cb287316b0a2eb48d06c09b441ff7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/edbe7a2d08256f4fd31628af1a964a4078fc06d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/118f8243f897795034a5732c4b7eac23bcdbedf1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/118f8243f897795034a5732c4b7eac23bcdbedf1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75f907e58632858d46fec6d815a053f6d7f6d602" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75f907e58632858d46fec6d815a053f6d7f6d602" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e58062c1a5143bcbd609d3078c684531071da930" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec5aba93b9138a5ea16fae9e07e0896fd0dfbefd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec5aba93b9138a5ea16fae9e07e0896fd0dfbefd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA-8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA-8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/DesignPattern/strategyDesignPattern/ClientCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/DesignPattern/strategyDesignPattern/DebitCradStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/DesignPattern/strategyDesignPattern/PayPalStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/DesignPattern/strategyDesignPattern/PaymentStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/DesignPattern/strategyDesignPattern/model/DebitCard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/DesignPattern/strategyDesignPattern/model/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/infotech/tasks/AssignTaskManagerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/infotech/tasks/ConditionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/infotech/tasks/DevTeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/infotech/tasks/ProducerConsumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/infotech/tasks/QATeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/A3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/A5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/A6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/A7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/A8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CountDownLatchExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CountDuplicaeWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CountDuplicateElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CountDuplicateElementJava8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CountDuplicateInjava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CountDuplicateWordJava8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/CyclicBarrierDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/DevTeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/EmployeeComparable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/FinalMethodOverride.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/NonAbstractMethod$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/NonAbstractMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/OverridinfExceptionCase2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/OverridingAbstractMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/OverridingExceptionCase1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/Passanger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/Predicate1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/QaTeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/RemoveWhiteSpace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/StarvationDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/Subclass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-8/com/java8/UiTeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/DesignPattern/strategyDesignPattern/ClientCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DesignPattern/strategyDesignPattern/ClientCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/DesignPattern/strategyDesignPattern/DebitCradStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DesignPattern/strategyDesignPattern/DebitCradStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/DesignPattern/strategyDesignPattern/PayPalStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DesignPattern/strategyDesignPattern/PayPalStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/DesignPattern/strategyDesignPattern/PaymentStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DesignPattern/strategyDesignPattern/PaymentStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/DesignPattern/strategyDesignPattern/model/DebitCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DesignPattern/strategyDesignPattern/model/DebitCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/DesignPattern/strategyDesignPattern/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/DesignPattern/strategyDesignPattern/model/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/infotech/tasks/AssignTaskManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infotech/tasks/AssignTaskManagerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/infotech/tasks/ConditionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infotech/tasks/ConditionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/infotech/tasks/DevTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infotech/tasks/DevTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/infotech/tasks/QATeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/infotech/tasks/QATeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/CountDownLatchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CountDownLatchExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/CountDuplicaeWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CountDuplicaeWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/CountDuplicateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CountDuplicateElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/CountDuplicateElementJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CountDuplicateElementJava8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/CountDuplicateInjava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CountDuplicateInjava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/CountDuplicateWordJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CountDuplicateWordJava8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/CyclicBarrierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/CyclicBarrierDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/DevTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/DevTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/EmployeeComparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/EmployeeComparable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/FinalMethodOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/FinalMethodOverride.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/NonAbstractMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/NonAbstractMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/OverridinfExceptionCase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/OverridinfExceptionCase2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/OverridingAbstractMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/OverridingAbstractMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/OverridingExceptionCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/OverridingExceptionCase1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/Predicate1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/Predicate1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/QaTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/QaTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/RemoveWhiteSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/RemoveWhiteSpace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/StarvationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/StarvationDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/UiTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/UiTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java8/QaTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java8/QaTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/linkedlist/DeleteElementFromLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/linkedlist/DeleteElementFromLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/string/CompressString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/string/CompressString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java8/QaTeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java8/QaTeam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/linkedlist/DeleteElementFromLast$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/linkedlist/DeleteElementFromLast$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/linkedlist/DeleteElementFromLast.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/linkedlist/DeleteElementFromLast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/string/CompressString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/string/CompressString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +60,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/demo (6)/demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../discovery-server" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -206,13 +72,13 @@
       <recent name="com.DI" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LRUCache">
-    <configuration name="DeleteElementFromLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.linkedlist.DeleteElementFromLast" />
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="ArrayRotationLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.ArrayRotationLeft" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.linkedlist.*" />
+          <option name="PATTERN" value="com.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDuplicatePositionKth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Hashtable.FindDuplicatePositionKth" />
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithim.BinarySearch" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Hashtable.*" />
+          <option name="PATTERN" value="com.algorithim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LRUCache" />
+    <configuration name="CompressString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.string.CompressString" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="com.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geekforgeek.LinkedList" />
+    <configuration name="RightShift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.RightShift" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geekforgeek.*" />
+          <option name="PATTERN" value="com.java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geekforgeek.Main" />
+    <configuration name="RotateArrayRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Array.RotateArrayRight" />
       <module name="JAVA-8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geekforgeek.*" />
+          <option name="PATTERN" value="com.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,19 +139,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.DeleteElementFromLast" />
-      <item itemvalue="Application.LinkedList" />
-      <item itemvalue="Application.FindDuplicatePositionKth" />
-      <item itemvalue="Application.LRUCache" />
+      <item itemvalue="Application.CompressString" />
+      <item itemvalue="Application.RightShift" />
+      <item itemvalue="Application.ArrayRotationLeft" />
+      <item itemvalue="Application.RotateArrayRight" />
+      <item itemvalue="Application.BinarySearch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LRUCache" />
-        <item itemvalue="Application.DeleteElementFromLast" />
-        <item itemvalue="Application.FindDuplicatePositionKth" />
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.CompressString" />
+        <item itemvalue="Application.RightShift" />
+        <item itemvalue="Application.RotateArrayRight" />
+        <item itemvalue="Application.ArrayRotationLeft" />
       </list>
     </recent_temporary>
   </component>
@@ -302,15 +168,23 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="361" y="73" key="#Project_Structure" timestamp="1583408876904">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583408876904" />
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1583413753290">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584543287996">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583413753290" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584543287996" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1584120968777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584120968777" />
     <state x="447" y="104" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583408826401">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -327,62 +201,66 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="329" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1581960475300" />
-    <state x="524" y="122" key="#xdebugger.evaluate" timestamp="1583689926341">
+    <state x="524" y="122" key="#xdebugger.evaluate" timestamp="1584593688199">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="524" y="122" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1583689926341" />
-    <state x="306" y="9" key="CommitChangelistDialog2" timestamp="1583940982853">
+    <state x="524" y="122" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1584593688199" />
+    <state x="306" y="9" key="CommitChangelistDialog2" timestamp="1584280014401">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="306" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583940982853" />
-    <state width="510" height="466" key="DebuggerActiveHint" timestamp="1583831479730">
+    <state x="306" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584280014401" />
+    <state width="510" height="466" key="DebuggerActiveHint" timestamp="1584464488579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="510" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1583831479730" />
+    <state width="510" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1584464488579" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1582886140314">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1582886140314" />
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1583409839050">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1584249142474">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583409839050" />
-    <state width="1493" height="285" key="GridCell.Tab.0.bottom" timestamp="1583940821197">
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584249142474" />
+    <state width="1493" height="285" key="GridCell.Tab.0.bottom" timestamp="1584594340964">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="285" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583940821197" />
-    <state width="1493" height="285" key="GridCell.Tab.0.center" timestamp="1583940821197">
+    <state width="1493" height="285" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584594340964" />
+    <state width="1493" height="285" key="GridCell.Tab.0.center" timestamp="1584594340963">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="285" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583940821197" />
-    <state width="1493" height="285" key="GridCell.Tab.0.left" timestamp="1583940821197">
+    <state width="1493" height="285" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584594340963" />
+    <state width="1493" height="285" key="GridCell.Tab.0.left" timestamp="1584594340963">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="285" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583940821197" />
-    <state width="1493" height="285" key="GridCell.Tab.0.right" timestamp="1583940821197">
+    <state width="1493" height="285" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584594340963" />
+    <state width="1493" height="285" key="GridCell.Tab.0.right" timestamp="1584594340964">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="285" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583940821197" />
-    <state width="1493" height="285" key="GridCell.Tab.1.bottom" timestamp="1583940822486">
+    <state width="1493" height="285" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584594340964" />
+    <state width="1493" height="285" key="GridCell.Tab.1.bottom" timestamp="1584594341035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="285" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583940822486" />
-    <state width="1493" height="285" key="GridCell.Tab.1.center" timestamp="1583940822485">
+    <state width="1493" height="285" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584594341035" />
+    <state width="1493" height="285" key="GridCell.Tab.1.center" timestamp="1584594341035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="285" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583940822485" />
-    <state width="1493" height="285" key="GridCell.Tab.1.left" timestamp="1583940822485">
+    <state width="1493" height="285" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584594341035" />
+    <state width="1493" height="285" key="GridCell.Tab.1.left" timestamp="1584594341035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="285" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583940822485" />
-    <state width="1493" height="285" key="GridCell.Tab.1.right" timestamp="1583940822485">
+    <state width="1493" height="285" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584594341035" />
+    <state width="1493" height="285" key="GridCell.Tab.1.right" timestamp="1584594341035">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="285" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583940822485" />
+    <state width="1493" height="285" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584594341035" />
     <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1583409730115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1583409730115" />
+    <state x="439" y="117" key="NewModule_or_Project.wizard" timestamp="1584248531903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="117" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1584248531903" />
     <state x="409" y="137" key="RollbackChangesDialog" timestamp="1583598466968">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -395,22 +273,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1582368394905" />
-    <state x="499" y="174" key="extract.method.dialog" timestamp="1583852732135">
+    <state x="499" y="174" key="extract.method.dialog" timestamp="1584178676360">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="174" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1583852732135" />
-    <state x="209" y="39" key="new project wizard" timestamp="1580544956517">
+    <state x="499" y="174" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1584178676360" />
+    <state x="412" y="139" width="711" height="546" key="find.popup" timestamp="1584277579302">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="39" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580544956517" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1583417212602">
+    <state x="412" y="139" width="711" height="546" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1584277579302" />
+    <state x="0" y="39" key="new project wizard" timestamp="1584248495075">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583417212602" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582445104258">
+    <state x="0" y="39" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584248495075" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1584594278504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582445104258" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584594278504" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584285431414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584285431414" />
+    <state x="491" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584121045148">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="330" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1584121045148" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -682,22 +568,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/string/CompressString.java</url>
-          <line>16</line>
+          <line>48</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/string/CompressString.java</url>
-          <line>35</line>
+          <line>67</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/string/CompressString.java</url>
-          <line>31</line>
+          <line>63</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/string/CompressString.java</url>
-          <line>29</line>
+          <line>61</line>
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -767,13 +653,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/DeleteElementFromLast.java</url>
-          <line>40</line>
+          <line>42</line>
           <option name="timeStamp" value="128" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/DeleteElementFromLast.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/DeleteElementFromLast.java</url>
@@ -789,6 +670,206 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/LRUCache.java</url>
           <line>25</line>
           <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/DeleteElementFromLast.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/DeleteElementFromLast.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/LinkedList.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/linkedlist/LinkedList.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/BinarySearchTree/InsertTree.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/BinarySearchTree/InsertTree.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/BinarySearchTree/Tree.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/BinarySearchTree/Tree.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/BinarySearchTree/InsertTree.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/BinarySearchTree/Tree.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/BinarySearchTree/Tree.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/BinarySearchTree/TreeNode.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/BinarySearchTree/TreeNode.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/java8/CountDownLatchExample.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thread/ConsumerProducerOrThreadPool.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/CompressString.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/CompressString.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/java8/RightShift.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/string/CompressString.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/java8/RightShift.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/java8/RightShift.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/ArrayRotationLeft.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/ArrayRotationLeft.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/ArrayRotationLeft.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Array/ArrayRotationLeft.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithim/BinarySearch.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="200" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/comparable/Employee.java</url>
@@ -813,6 +894,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/BinarySearchTree/Tree.java</url>
+          <line>38</line>
+          <properties class="com.BinarySearchTree.Tree" method="delete">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/BinarySearchTree/TreeNode.java</url>
+          <line>61</line>
+          <properties class="com.BinarySearchTree.TreeNode" method="traverseInRoot">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="158" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

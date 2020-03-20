@@ -1,0 +1,14 @@
+
+4squid:S2119"Save and re-use this "Random".(¼İÅf
+Zsquid:S1155.">Use isEmpty() to check whether the collection is empty or not.(£œğ¸ıÿÿÿÿ
+N
+squid:S106""9Replace this use of System.out or System.err by a logger.(šÆ^
+]squid:S2142I"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+=squid:S1170"!Make this final field static too.(êåÍñøÿÿÿÿ
+]squid:S2142R"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Asquid:S00108I")Either remove or fill this block of code.(ä ¹€
+§%squid:RedundantThrowsDeclarationCheck?"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7
+?squid:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Š”ëºùÿÿÿÿ
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(³ÃÖË8–»ô.

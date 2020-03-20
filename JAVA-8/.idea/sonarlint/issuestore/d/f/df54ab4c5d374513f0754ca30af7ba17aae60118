@@ -1,0 +1,15 @@
+
+[
+squid:S106O"9Replace this use of System.out or System.err by a logger.(óÎÅ ùÿÿÿÿ8çÑ„ô.
+Fsquid:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¹Å»ô.
+dsquid:S2142+"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¹Å»ô.
+[squid:UselessImportCheck"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8–ñÈó.
+dsquid:S2142!"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¹Å»ô.
+Fsquid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¹Å»ô.
+;squid:S2119<"Save and re-use this "Random".(¼İÅf8öŠÚó.
+asquid:S1155K">Use isEmpty() to check whether the collection is empty or not.(¡³Œ’ûÿÿÿÿ8çÑ„ô.
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ûÙ¢²ûÿÿÿÿ8îƒÜó.
+osquid:UselessImportCheck"?Remove this unused import 'java.util.concurrent.BlockingQueue'.(÷ÙÑÿÿÿÿÿ8ß´“õ.
+Dsquid:S1170"!Make this final field static too.(êåÍñøÿÿÿÿ8é¥Âó.
+Ysquid:S2274:";Remove this call to "await" or move it into a "while" loop.(‚‚àú8Àİíõ.

@@ -37,27 +37,27 @@ public class LRUCache {
             if (deque.size() == cacheSize) {
                 int last = deque.removeLast();
                 hashmap.remove(last);
-            } else{
-                int index =0; i=0;
-                deque.stream().map(element ->index);
+            } else {
+                /*int index = 0;
+                i = 0;*/
+                deque.stream().map(element -> element);
             }
 
         }
         deque.push(i);
         hashmap.add(i);
     }
-    public void refer1(int x)
-    {
+
+    /*public void refer1(int x) {
         if (!map.contains(x)) {
             if (dq.size() == csize) {
                 int last = dq.removeLast();
                 map.remove(last);
             }
-        }
-        else {
-            /* The found page may not be always the last element, even if it's an
+        } else {
+            *//* The found page may not be always the last element, even if it's an
                intermediate element that needs to be removed and added to the start
-               of the Queue */
+               of the Queue *//*
             int index = 0, i = 0;
             Iterator<Integer> itr = dq.iterator();
             while (itr.hasNext()) {
@@ -71,5 +71,5 @@ public class LRUCache {
         }
         dq.push(x);
         map.add(x);
-    }
+    }*/
 }

@@ -7,8 +7,40 @@ package com.string;
 public class CompressString {
 
 
-    public static String compress(String str) {
+  /*  public static String compress(String str) {*/
+  public static void main(String[] args) {
+        char inputChar[] = {'c', ' ', ' ', 'd'};
+        char [] result =shiftchar(inputChar);
+      System.out.println(shiftchar(inputChar));
+      System.out.println(result.length);
 
+    }
+
+
+    static char [] shiftchar(char[] inputArr) {
+ ;char temp;
+        /*for (int i = 0; i < inputArr.length - 1; i++) {
+                  if(inputArr[i]!=' '){
+                      temp =inputArr[i];
+
+
+
+                  }
+        }*/
+        int i = inputArr.length-1;
+        for (int j = i; j >= 0; j--)
+            if (inputArr[j] != ' ')
+            {
+                char c = inputArr[i];
+               inputArr[i] = inputArr[j];
+                inputArr[j] = c;
+                i--;
+            }
+        return inputArr;
+    }
+
+ /*       System.out.println("H" + "a");
+        System.out.println('H' + 'a');
         StringBuilder result = new StringBuilder();
         char[] arr = str.toCharArray();
         int current = 0;
@@ -40,6 +72,6 @@ public class CompressString {
         String string = "baaaaccdkksssssklpp";
         System.out.println(compress(string));
 
-    }
+    }*/
 }
 
